@@ -1,1 +1,2 @@
 this is a ai/ml project
+the project is about medical laboratory development
